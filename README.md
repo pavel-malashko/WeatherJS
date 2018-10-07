@@ -1,3 +1,48 @@
+## Setup:
+
+#### git clone https://github.com/pMal24/WeatherJS.git
+
+#### cd weather in terminal or  command line
+
+#### yarn # or npm install
+
+#### yarn start # or npm start
+
+## Requirements:
+### Создать SPA в котором можно будет ввести название города и получить погодную информацию. Пример поля ввода можно посмотреть здесь: https://www.google.com/maps(карта занимает всю страницу). В приложении можно выбрать день для которого нужно отобразить погоду(сегодня, завтра, послезавтра). После выбора города должен произойти зум в это место. Для карты использовать react-map-gl. Наличие визуализации будет плюсом. Задеплоить результат работы(surge/github pages).
+
+
+
+
+
+
+
+## Technologies
+- Create-react-app
+
+ -React
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
