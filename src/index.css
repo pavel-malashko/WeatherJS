@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.form-inline{
+	position: absolute;
+	top: 50px;
+	left: 100px;
+	z-index: 1;
+}
+div .data-weth{
+	position: absolute;
+	top: 100px;
+	left: 63px;
+	z-index: 2;
+}
+
+.picture{
+	margin: 0 auto;
+}
+ul{
+	font-family: sans-serif, bold;
+	font-size: 14px;
+}
+img{
+	border-radius: 30%;
+	width: 100px;
+	height: 100px;
+}
